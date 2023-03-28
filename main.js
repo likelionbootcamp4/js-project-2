@@ -119,3 +119,5 @@ function generateProductDetailMarkup(product) {
     </div>
     `;
 }
+
+console.log("Hello World");
